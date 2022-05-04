@@ -17,5 +17,5 @@
 
 <h3 align="left">🏆 My Github stats:</h3>
 
-<p style="margin-bottom: 15px;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krystianserwatka&theme=tokyonight" alt="krystianserwatka" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krystianserwatka&show_icons=true&locale=en&layout=compact&hide=Python,C,Hack,Tcl&theme=tokyonight" alt="krystianserwatka" /></p>
+<img align="left" style="margin-bottom: 15px;" src="https://github-readme-streak-stats.herokuapp.com/?user=krystianserwatka&theme=tokyonight" alt="krystianserwatka" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krystianserwatka&show_icons=true&locale=en&layout=compact&hide=Python,C,Hack,Tcl&theme=tokyonight" alt="krystianserwatka" />
