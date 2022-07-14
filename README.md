@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Krystian Serwatka</h1>
-<h3 align="center">I'm a passionate selft-taught frontend web developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krystianserwatka&label=Profile%20views&color=0e75b6&style=flat" alt="krystianserwatka" /> </p>
 
