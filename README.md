@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krystianserwatka&label=Profile%20views&color=0e75b6&style=flat" alt="krystianserwatka" /> </p>
 
-<p>👷‍♂️ I’m currently learning <b>TypeScript</b>!</p>
+<p>🧑‍💻 I’m currently learning <b>Swift</b>!</p>
 <p>🗺 My roadmap:</p>
-<p>| <s>HTML</s> | <s>CSS</s> | <s>JavaScript</s> | <b>TypeScript</b> 👈 | Angular |</p>
+<p>| <s>HTML</s> | <s>CSS</s> | <s>JavaScript</s> | <b>Swift</b> 👈 |</p>
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" height="40" style="vertical-align:top; margin:4px"></p>
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" height="40" style="vertical-align:top; margin:4px"></p>
 
 <h3 align="left">🏆 My Github stats:</h3>
 
