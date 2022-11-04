@@ -4,7 +4,7 @@
 
 <p>🧑‍💻 I’m currently learning <b>Swift</b>!</p>
 <p>🗺 My roadmap:</p>
-<p>| <s>HTML</s> | <s>CSS</s> | <s>JavaScript</s> | <b>Swift</b> 👈 |</p>
+<p>| <s>HTML</s> | <s>CSS</s> | <s>JavaScript</s> | <s>Swift(basics)</s> | Java(Selenium) 👈 |</p>
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
