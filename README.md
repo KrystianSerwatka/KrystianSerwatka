@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krystianserwatka&label=Profile%20views&color=0e75b6&style=flat" alt="krystianserwatka" /> </p>
 
-<p>🧑‍💻 I’m currently learning <b>Java(Selenium)</b>!</p>
+<p>🧑‍💻 I’m currently learning <b>Cypress</b>!</p>
 <p>🗺 My roadmap:</p>
 <p>| <s>HTML</s> | <s>CSS</s> | <s>JavaScript</s> | <s>Swift(basics)</s> | <s>Java(Selenium)</s> | Cypress 👈 |</p>
 
